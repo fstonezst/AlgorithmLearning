@@ -1,6 +1,6 @@
 //import java.util.*;
 public class Eight_6{
-	/*切割木棍问题*/
+	/*切割木棍问题，也即币值最大化问题*/
 	public static void main(String[] args){
         int[] p = new int[]{1,3,4,5,8,9,10};
              System.out.println(maxPrice(p));
